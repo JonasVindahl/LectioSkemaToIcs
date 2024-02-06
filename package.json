@@ -1,0 +1,11 @@
+{
+  "name": "project-lectio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^13.1.0",
+    "ical-generator": "^3.2.0"
+  }
+  
+}
