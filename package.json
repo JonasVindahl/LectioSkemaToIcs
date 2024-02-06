@@ -2,7 +2,7 @@
   "name": "project-lectio",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Lectio scraper.mjs",
   "dependencies": {
     "puppeteer": "^13.1.0",
     "ical-generator": "^3.2.0"
